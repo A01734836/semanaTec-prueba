@@ -1,4 +1,4 @@
-# semanaTec-prueba
+# Prueba de GitHub
 Prueba de repo de la semana Tec
 
 # Prueba del markdown
